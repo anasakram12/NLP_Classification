@@ -1,4 +1,4 @@
-# Title: NlP Document Classification
+# Title: NLP Document Classification
 
 ## Overview:
 This repository contains the code and data for a document classification project. The goal is to build a classifier that can predict the category of a document based on its content. The dataset includes information such as document class, title, date, and body.
